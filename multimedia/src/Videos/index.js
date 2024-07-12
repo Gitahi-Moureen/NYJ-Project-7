@@ -36,10 +36,7 @@ const Videos = ()=>{
 </div>
                 <div><iframe src="https://www.loom.com/embed/c9a0867f680148cb96476650bb0948ff?sid=584fca13-1928-43cb-9466-1bd22077e4a9" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen className="video"></iframe>
                 <p className="text"><b>Episode 5:</b> Architecture outline of chatGPT</p>
-                <div className="likeandshare">
-                    <div><img src="/Images/blueshare.png" alt="Share" className="icon"/></div>
-                    <div><img src="/Images/like.jpeg" alt="Share" className="icon"/></div>
-                    </div> 
+               
 </div>
                    
                 </div>
