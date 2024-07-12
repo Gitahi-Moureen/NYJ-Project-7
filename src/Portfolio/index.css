@@ -1,0 +1,81 @@
+.portfolio{
+    display: flex;
+    gap: 1%;
+    margin-left: 0.7%;
+    
+    
+   
+}
+.label{
+    width: 330px;
+    height: 350px;
+    padding-top: 4%;
+   
+    
+}
+.portfolio-2{
+    display: flex;
+    gap: 1%;
+    margin-left: 0.7%;
+}
+.image-Gitahi{
+    display: flex;
+    gap: 1%;
+    padding: 1%;
+    border: solid 2px;
+    background-color: black;
+    color: aliceblue;
+}
+.image-Maggy{
+    display: flex;
+    gap: 1%;
+    padding: 1%;
+    border: solid 2px;
+    background-color: black;
+    color: aliceblue;
+}
+.image-Tuukuo{
+    display: flex;
+    gap: 1%;
+    padding: 1%;
+    border: solid 2px;
+    background-color:black;
+    color: aliceblue;
+   
+}
+.image-Esther{
+    display: flex;
+    gap: 1%;
+    padding: 1%;
+    border: solid 2px;
+    background-color: black;
+    color: aliceblue;
+}
+.image-Terry{
+    display: flex;
+    gap: 1%;
+    padding: 1%;
+    border: solid 2px;
+    background-color: black;
+    color: aliceblue;
+}
+.skills{
+    width: 200px;
+    height: 200px;
+}
+.heading{
+    text-align: center;
+}
+/* .book{
+    width: 150px;
+    height: 150px;
+
+} */
+ .image-techie{
+    display: flex;
+    gap: 1%;
+    padding: 1%;
+    border: solid 2px;
+    background-color: black;
+    color: aliceblue;
+ }
