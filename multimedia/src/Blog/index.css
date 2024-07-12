@@ -11,6 +11,7 @@ body{
     font-size: 44px;
     margin-top: 2%;
     
+    
 }
 
 .book{
@@ -20,7 +21,7 @@ body{
 }
 .title{
     font-weight: bold;
-    font-size: 80px;
+    font-size: 81px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', inria-serif;
     width: 30%;
     margin-left: -10%;
